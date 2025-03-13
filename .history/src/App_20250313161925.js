@@ -1,8 +1,8 @@
 // App.js
 import React from 'react';
+import './App.css';
 import { MDXProvider } from '@mdx-js/react';
 import ExamplePage from './ExamplePage.mdx';
-// import './App.css';
 
 function App() {
   return (
